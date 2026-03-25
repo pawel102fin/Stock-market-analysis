@@ -28,3 +28,6 @@ Aby uruchomić projekt, musisz zainstalować środowisko Python oraz kilka zewn�
 
 ```bash
 pip install pandas yfinance matplotlib fpdf openpyxl
+
+<img width="770" height="744" alt="image" src="https://github.com/user-attachments/assets/c2408b14-02f1-43ef-9251-a2bc14bc082b" />
+<img width="762" height="453" alt="image" src="https://github.com/user-attachments/assets/080ad7d6-b59f-4219-9d06-02c39e842296" />
