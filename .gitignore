@@ -1,0 +1,11 @@
+# Ukryte pliki środowiska Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Wygenerowane raporty i wykresy (nie chcemy ich w kodzie źródłowym)
+*.pdf
+*.png
